@@ -2,16 +2,6 @@
 
 %% Initialise
 
-% % Set some physical constants
-% Fr = 1.31;
-% hc = Fr^(2/3);
-% n = 0.02;
-% h0 = 0.0895;
-% q0 = 0.1097;
-% v0 = 0.4;
-% u0 = q0/h0;
-% delta = n^2 *u0^3 /(v0*h0^(4/3));
-
 % Constants
 q0 = 0.1097;
 n = 0.02;
