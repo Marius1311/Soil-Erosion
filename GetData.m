@@ -52,3 +52,4 @@ options = odeset('Events', fun2, 'MaxStep', 1e-2);
 
 end
 
+
