@@ -37,6 +37,7 @@ for i = sMinRight:length(t2)
    % Get the value of the hydraulic term
    HydroRight = Fr^2/hRight + hRight^2*0.5;
    
+   
    % Integral over the right part, using the former integrations
     QRight = QRight + trapz(t2(i-1:i), y2(i-1:i, 2)); 
 
