@@ -11,13 +11,6 @@ direction(1) = 0;
 direction(2) = 0;
 direction(3) = 0;
 
-
-% l = length(xiRightRange);
-% value  =  xiRightRange' - t*ones(l, 1);
-% isterminal = zeros(l, 1);
-% direction = zeros(l, 1);
-
-% We also have to prevent h from becomign negative
-
 end
+
 
